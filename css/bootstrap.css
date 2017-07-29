@@ -6564,8 +6564,8 @@ button.close {
   }
 }
 img {
-    position: absolute;
-    top: 0; bottom:0; left: 0; right:0;
-    margin: auto;
+    width: 50%;
+    margin: 1px auto;
+    display: block;
 }
 /*# sourceMappingURL=bootstrap.css.map */
